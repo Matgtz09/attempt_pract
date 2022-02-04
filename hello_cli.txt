@@ -1,0 +1,4 @@
+H
+llo Command Line
+In the end of times two is a dime
+if(var == time){ return spicy;
