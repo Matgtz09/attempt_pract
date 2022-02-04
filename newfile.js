@@ -1,2 +1,2 @@
-var name =  "Matthe Gutierrez";
+var name =  "Matthew Gutierrez";
 console.log("Hello my "+name);
